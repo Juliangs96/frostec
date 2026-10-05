@@ -1,0 +1,72 @@
+.footer {
+  background-color: #0b2545;
+  color: #d6e6f2;
+  padding: 36px 8% 16px;
+  margin-top: 40px;
+  font-size: 14px;
+}
+
+.footer-columnas {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr;
+  gap: 30px;
+}
+
+.footer h3 {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  margin-bottom: 4px;
+}
+
+.equipo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.persona {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border: 1px solid #28497a;
+  border-radius: 8px;
+  padding: 10px 14px;
+}
+
+.iniciales {
+  width: 46px;
+  height: 46px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.persona-nombre {
+  color: white;
+  font-weight: bold;
+}
+
+.persona-email {
+  font-size: 12px;
+  color: #9fd4ea;
+}
+
+.copy {
+  text-align: center;
+  margin-top: 24px;
+  font-size: 12px;
+}
+
+@media (max-width: 700px) {
+  .footer-columnas {
+    grid-template-columns: 1fr;
+  }
+}

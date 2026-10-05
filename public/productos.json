@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "Heladera No Frost Samsung RT35K5532SL 362 L",
+    "categoria": "Heladeras",
+    "precio": 1372499,
+    "stock": 4,
+    "imagen": "/img/heladera-samsung.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Heladera Gafa Side by Side 457 L Inverter HGSBS457N",
+    "categoria": "Heladeras",
+    "precio": 1499999,
+    "stock": 3,
+    "imagen": "/img/heladera-gafa.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Aire Split Inverter Frío/Calor Comfee 3105 fg",
+    "categoria": "Aires",
+    "precio": 692999,
+    "stock": 10,
+    "imagen": "/img/aire-comfee.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Aire Split Inverter Philco 3800 W PHIN38HA6AN",
+    "categoria": "Aires",
+    "precio": 799999,
+    "stock": 8,
+    "imagen": "/img/aire-philco.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Lavarropas Inverter Midea Smart 10,5 kg",
+    "categoria": "Lavarropas",
+    "precio": 890000,
+    "stock": 5,
+    "imagen": "/img/lavarropas-midea.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Lavarropas Gadnic Carga Frontal 10,5 kg Inverter",
+    "categoria": "Lavarropas",
+    "precio": 747999,
+    "stock": 6,
+    "imagen": "/img/lavarropas-gadnic.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Juego Llave Tubo Bocallave Bremen 110 piezas",
+    "categoria": "Herramientas",
+    "precio": 95000,
+    "stock": 12,
+    "imagen": "/img/llave-tubo-bremen.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Bomba de Vacío Gadnic 90 L 186 W 1/4 HP",
+    "categoria": "Herramientas",
+    "precio": 174999,
+    "stock": 7,
+    "imagen": "/img/bomba-vacio-gadnic.png"
+  }
+]

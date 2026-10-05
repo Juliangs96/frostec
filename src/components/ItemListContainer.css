@@ -1,0 +1,40 @@
+.catalogo {
+  padding: 40px 8% 10px;
+}
+
+.catalogo h2 {
+  margin-bottom: 14px;
+}
+
+.filtros {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.filtro {
+  background-color: white;
+  border: 1px solid #1a6fa8;
+  color: #1a6fa8;
+  padding: 6px 16px;
+  border-radius: 30px;
+  font-size: 13px;
+}
+
+.filtro.activo {
+  background-color: #1a6fa8;
+  color: white;
+}
+
+.lista {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 18px;
+}
+
+@media (max-width: 500px) {
+  .lista {
+    grid-template-columns: 1fr;
+  }
+}

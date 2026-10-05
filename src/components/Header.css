@@ -1,0 +1,41 @@
+.barra-superior {
+  background-color: #0b2545;
+  color: #9fd4ea;
+  font-size: 12px;
+  text-align: center;
+  padding: 6px;
+}
+
+.header {
+  background-color: white;
+  border-bottom: 3px solid #1a6fa8;
+  padding: 14px 8%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.logo {
+  font-size: 26px;
+}
+
+.logo span {
+  color: #1a6fa8;
+}
+
+.nav {
+  display: flex;
+  gap: 22px;
+  font-size: 14px;
+}
+
+.nav a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav a:hover {
+  color: #1a6fa8;
+}
