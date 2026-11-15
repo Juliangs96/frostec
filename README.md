@@ -1,4 +1,4 @@
-# Frostec Refrigeración - Pre-entrega React JS
+# Frostec Refrigeración - entrega Final React JS
 
 Casa de refrigeración (heladeras, aires, lavarropas y repuestos) hecha con Vite, React y JavaScript.
 
@@ -8,7 +8,7 @@ npm install
 npm run dev
 ```
 
-## Build (la carpeta dist se sube a Netlify)
+## Build
 ```
 npm run build
 ```
