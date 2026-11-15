@@ -1,6 +1,6 @@
 import './Footer.css'
 
-// datos del equipo (cambiar por los reales)
+// datos del equipo
 const equipo = [
   { id: 1, nombre: 'Gustavo Ledesma', cargo: 'Técnico matriculado', email: 'gustavo@frostec.com.ar', color: '#1a6fa8' },
   { id: 2, nombre: 'Natalia Quiroga', cargo: 'Ventas y atención', email: 'natalia@frostec.com.ar', color: '#2a9d8f' },
